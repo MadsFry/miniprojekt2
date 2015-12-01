@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.11)  1 DEC 2015 11:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.2.11)  1 DEC 2015 18:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1686,7 +1686,7 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 3.
 \c__siunitx_mathtt_int=\count342
 \openout2 = `Forside.aux'.
 
- (./Forside.tex <Figurer/ASE.png, id=20, 439.6425pt x 136.25906pt>
+ (./Forside.tex <Figurer/ASE.png, id=28, 439.6425pt x 136.25906pt>
 File: Figurer/ASE.png Graphic file (type png)
  <use Figurer/ASE.png>
 Package pdftex.def Info: Figurer/ASE.png used on input line 6.
@@ -1755,7 +1755,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has b
 <to be read again> 
                    \relax 
 l.1 \chapter
-            {Miniprojekt} [2
+            {Miniprojekt 3} [2
 
 
 ]
@@ -1776,11 +1776,72 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 8.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 8.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 16.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 16.
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--11
+Package caption Warning: \label without proper \caption on input line 22.
+See the caption package documentation for explanation.
 
- []
 
+LaTeX Warning: Reference `Filtreret signal' on page 3 undefined on input line 17.
+
+<Figurer/1.png, id=62, 720.6925pt x 151.56625pt>
+File: Figurer/1.png Graphic file (type png)
+ <use Figurer/1.png>
+Package pdftex.def Info: Figurer/1.png used on input line 21.
+(pdftex.def)             Requested size: 426.0pt x 89.58981pt.
+ <Figurer/2.png, id=63, 668.4975pt x 269.005pt>
+File: Figurer/2.png Graphic file (type png)
+ <use Figurer/2.png>
+Package pdftex.def Info: Figurer/2.png used on input line 28.
+(pdftex.def)             Requested size: 426.0pt x 171.42786pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 32.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 32.
+ [3 <./Figurer/1.png>] <Figurer/5.png, id=75, 660.4675pt x 270.00874pt>
+File: Figurer/5.png Graphic file (type png)
+ <use Figurer/5.png>
+Package pdftex.def Info: Figurer/5.png used on input line 35.
+(pdftex.def)             Requested size: 426.0pt x 174.16048pt.
+ <Figurer/6.png, id=76, 653.44125pt x 268.00125pt>
+File: Figurer/6.png Graphic file (type png)
+ <use Figurer/6.png>
+Package pdftex.def Info: Figurer/6.png used on input line 42.
+(pdftex.def)             Requested size: 426.0pt x 174.71808pt.
+ <Figurer/8.png, id=77, 632.3625pt x 253.94875pt>
+File: Figurer/8.png Graphic file (type png)
+ <use Figurer/8.png>
+Package pdftex.def Info: Figurer/8.png used on input line 49.
+(pdftex.def)             Requested size: 426.0pt x 171.07863pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 53.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 53.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 53.
+ [4 <./Figurer/2.png> <./Figurer/5.png> <./Figurer/6.png>]
+File: Figurer/8.png Graphic file (type png)
+ <use Figurer/8.png>
+Package pdftex.def Info: Figurer/8.png used on input line 56.
+(pdftex.def)             Requested size: 426.0pt x 171.07863pt.
+ <Figurer/10.png, id=88, 718.685pt x 287.0725pt>
+File: Figurer/10.png Graphic file (type png)
+ <use Figurer/10.png>
+Package pdftex.def Info: Figurer/10.png used on input line 63.
+(pdftex.def)             Requested size: 426.0pt x 170.16414pt.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 68.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 68.
 )
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 9.
@@ -1790,7 +1851,16 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 9.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 9.
- [3] 
+ [5 <./Figurer/8.png> <./Figurer/10.png>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 9.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 9.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 9.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 9.
+ [6] 
 AED: lastpage setting LastPage
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 11.
@@ -1806,21 +1876,25 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 11.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 11.
 Package rerunfilecheck Info: File `Miniprojekt3.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
+
+
+LaTeX Warning: There were undefined references.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 11.
  ) 
 Here is how much of TeX's memory you used:
- 26861 strings out of 493117
- 479027 string characters out of 6135433
- 796917 words of memory out of 5000000
- 29932 multiletter control sequences out of 15000+600000
- 22728 words of font info for 60 fonts, out of 8000000 for 9000
+ 26941 strings out of 493117
+ 480169 string characters out of 6135433
+ 797917 words of memory out of 5000000
+ 29992 multiletter control sequences out of 15000+600000
+ 24190 words of font info for 62 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 40i,11n,40p,10465b,788s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on "/Users/madsjorgensen/Documents/ST/3. semester/DSB/Del 3/Miniprojekt/miniprojekt2/Projekt 3/.texpadtmp/Miniprojekt3.pdf" (5 pages, 156807 bytes).
+ 41i,12n,80p,10465b,788s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1440.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfcc1728.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfrm2488.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
+Output written on "/Users/madsjorgensen/Documents/ST/3. semester/DSB/Del 3/Miniprojekt/miniprojekt2/Projekt 3/.texpadtmp/Miniprojekt3.pdf" (8 pages, 485428 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
- 8 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 157 PDF objects out of 1000 (max. 8388607)
+ 118 compressed objects within 2 object streams
+ 20 named destinations out of 1000 (max. 500000)
+ 84 words of extra memory for PDF output out of 10000 (max. 10000000)
 
